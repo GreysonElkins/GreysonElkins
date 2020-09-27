@@ -3,7 +3,7 @@
 👨🏻‍🏫 *Turing School of Software & Design*, 2020 | *University of Denver*, 2016   
 📚  Learning `Redux`, `Knex`  
 👨🏻‍💻 [LinkedIn](https://www.linkedin.com/in/greyson-elkins/)  
-👨🏻‍🎤 he / him 🎸 noise maker  
+👨🏻‍🎤 he / him 🎸 [noise maker](https://feralsuits.bandcamp.com/)  
 
 ## Technologies
 <p align="left">
