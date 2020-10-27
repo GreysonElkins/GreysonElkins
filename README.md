@@ -2,7 +2,7 @@
 
 🎧 audio engineer turned software developer 💾    
 👨🏻‍🏫 *Turing School of Software & Design*, 2020 | *University of Denver*, 2016   
-📚  Learning `PSQL`, `Sequelize`  
+📚  Learning `Typescript`  
 👨🏻‍💻 [LinkedIn](https://www.linkedin.com/in/greyson-elkins/)  
 👨🏻‍🎤 he / him 🎸 [noise maker](https://feralsuits.bandcamp.com/)  
 
