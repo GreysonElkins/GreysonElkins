@@ -4,7 +4,7 @@
 👨🏻‍🏫 *Turing School of Software & Design*, 2020 | *University of Denver*, 2016   
 📚  Learning `PWA`, `Webhooks`  
 👨🏻‍💻 [LinkedIn](https://www.linkedin.com/in/greyson-elkins/)  
-🐦 [@greysonElkins](https://twitter.com/greysonelkins)
+🐦 [@greysonElkins](https://twitter.com/greysonelkins)  
 👨🏻‍🎤 he / him 🎸 [noise maker](https://feralsuits.bandcamp.com/)  
 
 ## Technologies
