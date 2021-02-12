@@ -5,7 +5,7 @@
 📚  Learning `C++, graphQL`  
 👨🏻‍💻 [LinkedIn](https://www.linkedin.com/in/greyson-elkins/)  
 🐦 [@greysonElkins](https://twitter.com/greysonelkins)  
-👨🏻‍🎤 he / him 🎸 [noise maker](https://feralsuits.bandcamp.com/)  
+👨🏻‍🎤 he / him 🎸 [noise maker](https://feralsuits.com)  
 
 ## Technologies
 <p align="left">
