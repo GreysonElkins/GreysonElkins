@@ -4,8 +4,10 @@
 👨🏻‍🏫 *Turing School of Software & Design*, 2020 | *University of Denver*, 2016   
 📚  Learning `C++, graphQL`  
 👨🏻‍💻 [LinkedIn](https://www.linkedin.com/in/greyson-elkins/)  
+💼 [Portfolio](https://alumni.turing.io/alumni/greyson-elkins)
 🐦 [@greysonElkins](https://twitter.com/greysonelkins)  
-👨🏻‍🎤 he / him 🎸 [noise maker](https://feralsuits.com)  
+👨🏻‍🎤 he / him   
+🎸 [noise maker](https://feralsuits.com)  
 
 ## Technologies
 <p align="left">
