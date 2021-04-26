@@ -33,4 +33,5 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />  
 </p>
-[![Greyson's github stats](https://github-readme-stats.vercel.app/api?username=GreysonElkins)](https://github.com/GreysonElkins/github-readme-stats)
+
+![Greyson's github stats](https://github-readme-stats.vercel.app/api?username=GreysonElkins)](https://github.com/GreysonElkins/github-readme-stats)
