@@ -1,10 +1,16 @@
 ### Greyson Elkins
 
-🎧  audio engineer turned software developer 💾    
+<p align="center">
+  <a href="mailto: greysonelkins@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/greyson-elkins/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/greysonelkins"><img alt="Twitter" src="https://img.shields.io/badge/@greysonelkins-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/greysonelkins/"><img alt="Instagram" src="https://img.shields.io/badge/@greysonelkins-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
+<p align="center"><a href="https://terminal.turing.io/profiles/703">💼  Portfolio</a> </p>
+
+🎧  audio engineer turned software developer 💾  
 👨🏻‍🏫 *Turing School of Software & Design*, 2020 | *University of Denver*, 2016   
-👨🏻‍💻 [LinkedIn](https://www.linkedin.com/in/greyson-elkins/)  
-💼 [Portfolio](https://terminal.turing.io/profiles/703)  
-🐦 [@greysonElkins](https://twitter.com/greysonelkins)  
+ 
 👨🏻‍🎤 he / him   
 🎸 [noise maker](https://feralsuits.com)  
 
