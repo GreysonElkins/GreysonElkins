@@ -15,7 +15,7 @@
 🎸 [noise maker](https://feralsuits.com)  
 
 ## Technologies
-<p align="left">
+<p align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,5 +41,8 @@
   <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />  
 </p>
 
-[![Greyson's github stats](https://github-readme-stats.vercel.app/api?username=GreysonElkins)](https://github.com/GreysonElkins/github-readme-stats)
+<p align="center">
+<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=GreysonElkins" />
+</p>
+
 
