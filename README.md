@@ -6,13 +6,12 @@
   <a href="https://twitter.com/greysonelkins"><img alt="Twitter" src="https://img.shields.io/badge/@greysonelkins-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.instagram.com/greysonelkins/"><img alt="Instagram" src="https://img.shields.io/badge/@greysonelkins-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
-<p align="center"><a href="https://terminal.turing.io/profiles/703">💼  Portfolio</a> </p>
 
-🎧  audio engineer turned software developer 💾  
-👨🏻‍🏫 *Turing School of Software & Design*, 2020 | *University of Denver*, 2016   
- 
 👨🏻‍🎤 he / him   
-🎸 [noise maker](https://feralsuits.com)  
+🎧  audio engineer turned software developer 💾  
+👨🏻‍🏫 *Turing School of Software & Design* | *University of Denver*  
+🎸 [noise maker](https://feralsuits.com) 
+💼 [Portfolio](https://terminal.turing.io/profiles/703)  
 
 ## Technologies
 <p align="center">
