@@ -1,6 +1,6 @@
 ### Greyson Elkins
 👨🏻‍🎤 he / him  
-🔥 Software Integration Developer @ [Bonfire Engineering & Construction](https://github.com/bonfire-ec)  
+🔥 Software Integration Developer @ [Bonfire Engineering & Construction](https://bonfire-ec.com/)  
 🎧 veteran audio engineer  
 👨🏻‍🏫 *Turing School of Software & Design* | *University of Denver*  
 🎸 [noise maker](https://feralsuits.com)  
