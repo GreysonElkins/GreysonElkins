@@ -4,7 +4,6 @@
 🎧 veteran audio engineer  
 👨🏻‍🏫 *Turing School of Software & Design* | *University of Denver*  
 🎸 [noise maker](https://feralsuits.com)  
-💼 [Portfolio](https://terminal.turing.io/profiles/703)  
 
 <p align="center">
   <a href="mailto: greysonelkins@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
